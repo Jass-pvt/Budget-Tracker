@@ -20,10 +20,3 @@ A **personal finance and budget tracking application** to help users manage inco
 - Export reports for personal use  
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/jazz-pvt/Budget-Tracker.git
-cd Budget-Tracker
