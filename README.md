@@ -14,9 +14,9 @@ A **personal finance and budget tracking application** to help users manage inco
 ---
 
 ## ⚡ Features
-- Track daily, weekly, and monthly income and expenses  
-- Visualize expenses with interactive charts  
-- Categorize transactions for better budget management  
-- Export reports for personal use  
+- Track daily, weekly, and monthly income and expenses.
+- Visualize expenses with interactive charts.
+- Categorize transactions for better budget management.  
+- Export reports for personal use. 
 
 ---
