@@ -1,6 +1,6 @@
 # 💰 Budget Tracker
 
-A **personal finance and budget tracking application** to help users manage income, expenses, and visualize spending patterns.
+A **personal finance and budget tracking application** to help users manage income, expenses, and visualize spending patterns.  
 
 ---
 
