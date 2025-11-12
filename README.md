@@ -5,7 +5,7 @@ A **personal finance and budget tracking application** to help users manage inco
 ---
 
 ## 🛠️ Tech Stack 
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML, CSS, JavaScript          
 - **Backend:** Node.js .
 - **Data Analysis:** Python (pandas)  
 - **Visualization:** Chart.js .
