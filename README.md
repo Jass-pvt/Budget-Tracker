@@ -12,7 +12,7 @@ A **personal finance and budget tracking application** to help users manage inco
 - **Deployment:** Vercel . 
                                    
 ---
-
+  
 ## ⚡ Features 
 - Track daily, weekly, and monthly income and expenses.
 - Visualize expenses with interactive charts.
