@@ -9,7 +9,7 @@ A **personal finance and budget tracking application** to help users manage inco
 - **Backend:** Node.js .
 - **Data Analysis:** Python (pandas)  
 - **Visualization:** Chart.js .  
-- **Deployment:** Vercel .
+- **Deployment:** Vercel . 
                                    
 ---
 
